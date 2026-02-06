@@ -1,4 +1,4 @@
-# ZoneCloud Domain Search -- WHMCS Addon Module
+# ZoneCloud.io Domain Search -- WHMCS Addon Module
 
 ## Overview
 
@@ -82,14 +82,14 @@ When searching inside WHMCS admin:
 1.  Upload the module directory to:
 
 ```{=html}
-<!-- -->
+
 ```
     /modules/addons/zoneclouddomainsearch/
 
 2.  Go to:
 
 ```{=html}
-<!-- -->
+
 ```
     WHMCS Admin → Setup → Addon Modules
 
@@ -149,9 +149,11 @@ Authentication:
 ## Author
 
 NixPal OU
+Zonecloud.io
+Nixpal.com
 
 ------------------------------------------------------------------------
 
 ## License
 
-Proprietary / Internal Use for Zonecloud. GPL for this Addon Module
+Proprietary / Internal Use for Zonecloud.io -  GPL for this Addon Module
